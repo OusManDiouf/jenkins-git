@@ -1,4 +1,4 @@
-# jenkins-git
+# jenkins-git[![Build Status](http://localhost:8080/job/jenkins-webhooks/job/master/badge/icon)](http://localhost:8080/job/jenkins-webhooks/job/master/)
 
-A simple project to test jenkins git integration
-And it should be triggered by any change
+Projet pour tester l'integration avec Jenkins.
+Build activé suite à un changement sur ce repo
